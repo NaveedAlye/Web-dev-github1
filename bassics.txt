@@ -1,3 +1,6 @@
 git status
 
-ghghk sr
+ghghk srgit
+
+kijhg
+kjg
